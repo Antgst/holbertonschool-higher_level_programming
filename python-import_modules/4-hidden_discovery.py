@@ -3,8 +3,6 @@
 if __name__ == "__main__":
     hidden = __import__("hidden_4")
 
-    names = dir(hidden)
-
-    for name in names:
-        if not name.startswith("__"):
+    for name in sorted(dir(hidden)):
+        if not name.startwith("__"):
             print(name)
