@@ -3,8 +3,8 @@
 if __name__ == __import__("hidden_4"):
     words = __import__("hidden_4")
 
-    name = dir(hidden)
+    names = dir(hidden)
 
-    for name in name:
-        if not name.startswitch("__"):
+    for name in names:
+        if not name.startswith("__"):
             print(name)
