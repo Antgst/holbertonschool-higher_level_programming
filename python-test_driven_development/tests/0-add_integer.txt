@@ -10,6 +10,10 @@ Integers addition tests.
 100
 >>> add_integer(-3, 0)
 -3
+>>> add_integer(100, -2)
+98
+>>> add_integer(100.3, -2)
+98
 
 >>> add_integer(4, "Test")
 Traceback (most recent call last):
