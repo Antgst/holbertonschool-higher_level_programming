@@ -1,0 +1,32 @@
+Text indentation tests.
+
+>>> text_indentation = __import__('5-text_indentation').text_indentation
+
+>>> text_indentation("Hello. World")
+Hello.
+<BLANKLINE>
+World
+<BLANKLINE>
+
+>>> text_indentation("Hi?  Yes:  OK.")
+Hi?
+<BLANKLINE>
+Yes:
+<BLANKLINE>
+OK.
+<BLANKLINE>
+
+>>> text_indentation("   A sentence.   Another one?   And:done   ")
+A sentence.
+<BLANKLINE>
+Another one?
+<BLANKLINE>
+And:
+<BLANKLINE>
+done
+<BLANKLINE>
+
+>>> text_indentation(12)
+Traceback (most recent call last):
+...
+TypeError: text must be a string
