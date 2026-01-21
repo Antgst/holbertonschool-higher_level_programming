@@ -1,0 +1,22 @@
+Integers addition tests.
+
+>>> add_integer = __import__('0-add_integer').add_integer
+
+>>> add_integer(1, 2)
+3
+>>> add_integer(3, 2.9)
+5
+>>> add_integer(2)
+100
+>>> add_integer(-3, 0)
+-3
+
+>>> add_integer(4, "Test")
+Traceback (most recent call last):
+...
+TypeError: b must be an integer
+
+>>> add_integer(None)
+Traceback (most recent call last):
+...
+TypeError: a must be an integer
