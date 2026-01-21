@@ -15,8 +15,7 @@ def matrix_divided(matrix, div):
     if div == 0:
         raise ZeroDivisionError("division by zero")
 
-    if not isinstance(matrix, list) or matrix == [] or
-    any(not isinstance(row, list) or row == [] for row in matrix):
+    if not isinstance(matrix, list) or matrix == [] or any(not isinstance(row, list) or row == [] for row in matrix):
         raise TypeError("matrix must be a matrix (list of lists) of "
                         "integers/floats")
 
