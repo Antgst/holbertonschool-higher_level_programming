@@ -13,6 +13,7 @@ Hi?
 Yes:
 <BLANKLINE>
 OK.
+<BLANKLINE>
 
 >>> text_indentation("   A sentence.   Another one?   And:done   ")
 A sentence.
