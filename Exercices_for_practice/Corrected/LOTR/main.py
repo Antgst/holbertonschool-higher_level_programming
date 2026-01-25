@@ -137,7 +137,9 @@ names_upper = [name.upper() for name in FELLOWSHIP]
 # CONTEXTE DONNÉES:
 # - RACES associe chaque membre à une race
 # TODO B5: liste de tuples (nom, race) pour Hobbit ou Man
-duo_pairs = None
+duo_pairs = [(name, RACES[name]) for name in FELLOWSHIP if RACES[name] in ("Hobbit", "Man")]
+
+
 
 
 # ============================================================
@@ -297,3 +299,10 @@ if __name__ == "__main__":
     print("fellowship_copy :", fellowship_copy)  # doit contenir Faramir
 
     print("hobbits:", hobbits)
+
+    print("=== CHECK B (listes) ===")
+    print("FELLOWSHIP      :", FELLOWSHIP)
+    print("fellowship_copy :", fellowship_copy)
+    print("hobbits         :", hobbits)
+    print("names_upper     :", names_upper)
+    print("duo_pairs       :", duo_pairs)
