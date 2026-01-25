@@ -265,3 +265,5 @@ pass
 # - FELLOWSHIP ne doit jamais changer
 # TODO Z1: ajoute 6 asserts max (invariants)
 pass
+
+print("OK: main.py exécuté")
