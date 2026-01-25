@@ -81,8 +81,10 @@ def is_known(member, races):
     # - member : string (ex: "Frodo")
     # - races : dict RACES (clé = nom, valeur = race)
     # TODO A1: retourne True/False sans try/except
-    pass
-
+    if member in races:
+        return True
+    else:
+        return False
 
 def safe_int(value, default=0):
     """Convertit value en int, sinon default."""
@@ -90,7 +92,11 @@ def safe_int(value, default=0):
     # - value : n'importe quel type (str, None, int…)
     # - default : int par défaut
     # TODO A2: gérer ValueError ET TypeError uniquement
-    pass
+    try:
+        int(value)
+        return int(value)
+    except (ValueError, TypeError):
+        return default
 
 
 def summarize_steps(journey):
@@ -99,7 +105,7 @@ def summarize_steps(journey):
     # - journey : liste de tuples (str, int)
     #   ex: ("Bree", 160)
     # TODO A3: dict comprehension obligatoire
-    pass
+    return {place: dist for place, dist in journey}
 
 
 # ============================================================
@@ -110,21 +116,23 @@ def summarize_steps(journey):
 # - FELLOWSHIP = liste de 9 noms
 # TODO B1: crée une COPIE indépendante de FELLOWSHIP
 fellowship_copy = None
+fellowship_copy = FELLOWSHIP[0:]
 
 # CONTEXTE DONNÉES:
 # - fellowship_copy contient "Boromir"
 # TODO B2: remplace "Boromir" par "Faramir" (même index)
-pass
+i = fellowship_copy.index("Boromir")
+fellowship_copy[i] = "Faramir"
 
 # CONTEXTE DONNÉES:
 # - les 4 premiers membres de FELLOWSHIP sont des Hobbits
 # TODO B3: extrais-les avec slicing
-hobbits = None
+hobbits = FELLOWSHIP[0:4]
 
 # CONTEXTE DONNÉES:
 # - FELLOWSHIP : liste de strings
 # TODO B4: crée names_upper en MAJUSCULES (list comprehension)
-names_upper = None
+names_upper = [name.upper() for name in FELLOWSHIP]
 
 # CONTEXTE DONNÉES:
 # - RACES associe chaque membre à une race
@@ -266,4 +274,26 @@ pass
 # TODO Z1: ajoute 6 asserts max (invariants)
 pass
 
-print("OK: main.py exécuté")
+if __name__ == "__main__":
+    print("=== DEMO A (fonctions) ===")
+    print("is_known('Frodo') :", is_known("Frodo", RACES))
+    print("is_known('Sauron'):", is_known("Sauron", RACES))
+
+    print("safe_int('42')    :", safe_int("42"))
+    print("safe_int(None)    :", safe_int(None))
+    print("safe_int('xx', 9) :", safe_int("xx", 9))
+
+    steps = summarize_steps(JOURNEY)
+    print("steps['Bree']     :", steps.get("Bree"))
+    print("last step         :", list(steps.items())[-1])
+
+    print("=== CHECK B1 ===")
+    print("FELLOWSHIP      :", FELLOWSHIP)
+    print("fellowship_copy :", fellowship_copy)
+    print("same object ?   :", fellowship_copy is FELLOWSHIP)  # doit être False
+
+    print("=== CHECK B2 ===")
+    print("FELLOWSHIP      :", FELLOWSHIP)       # doit toujours contenir Boromir
+    print("fellowship_copy :", fellowship_copy)  # doit contenir Faramir
+
+    print("hobbits:", hobbits)
