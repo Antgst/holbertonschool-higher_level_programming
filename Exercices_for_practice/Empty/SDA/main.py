@@ -256,27 +256,3 @@ pass
 # - FELLOWSHIP ne doit jamais changer
 # TODO Z1: ajoute 6 asserts max (invariants)
 pass
-
-if __name__ == "__main__":
-    print("=== DEMO A (fonctions) ===")
-    print("is_known('Frodo') :", is_known("Frodo", RACES))
-    print("is_known('Sauron'):", is_known("Sauron", RACES))
-
-    print("safe_int('42')    :", safe_int("42"))
-    print("safe_int(None)    :", safe_int(None))
-    print("safe_int('xx', 9) :", safe_int("xx", 9))
-
-    steps = summarize_steps(JOURNEY)
-    print("steps['Bree']     :", steps.get("Bree"))
-    print("last step         :", list(steps.items())[-1])
-
-    print("=== CHECK B1 ===")
-    print("FELLOWSHIP      :", FELLOWSHIP)
-    print("fellowship_copy :", fellowship_copy)
-    print("same object ?   :", fellowship_copy is FELLOWSHIP)  # doit être False
-
-    print("=== CHECK B2 ===")
-    print("FELLOWSHIP      :", FELLOWSHIP)       # doit toujours contenir Boromir
-    print("fellowship_copy :", fellowship_copy)  # doit contenir Faramir
-
-    print("hobbits:", hobbits)
