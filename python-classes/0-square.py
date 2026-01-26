@@ -1,10 +1,8 @@
 #!/usr/bin/python3
 
-'''TEST DOC'''
+'''A class that define a square'''
 
-# TEST DOC
 
-if __name__ == "__main__":
-    class Square:
-        def __init__(self, side):
-            self.side = side
+class Square:
+    '''An empty class'''
+    pass
