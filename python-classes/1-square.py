@@ -1,5 +1,13 @@
 #!/usr/bin/python3
 
-'''TEST DOC'''
+'''Square module, this module defines a Square class'''
 
-# TEST DOC
+
+class Square:
+    '''Defines a square'''
+
+    def __init__(self, size):
+        '''Initialiaze a new Square instance
+        Args: size : Size of the square
+        (no type/value validation in this task)'''
+        self.__size = size
