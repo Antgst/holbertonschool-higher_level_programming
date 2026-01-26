@@ -1,38 +1,55 @@
 #!/usr/bin/python3
 
-'''TEST DOC'''
+'''Square module.
+
+This module defines a Square class that supports:
+- size validation via a property,
+- area computation,
+- printing the square using `#`.'''
 
 
 class Square:
     '''
-    Docstring pour Square
+    Defines a square by its size.
+
+    The size is stored as a private attribute and exposed through a property
+    that validates assignments.
     '''
 
     def __init__(self, size=0):
         '''
-        Docstring pour __init__
+        Initialize a new Square.
 
-        :param self: Description
-        :param size: Description
+        Args:
+            size (int): Size of the square. Defaults to 0.
+
+        Raises:
+            TypeError: If size is not an integer.
+            ValueError: If size is less than 0.
         '''
         self.__size = size
 
     @property
     def size(self):
         '''
-        Docstring pour size
+        Get the size of the square.
 
-        :param self: Description
+        Returns:
+            int: The current size of the square.
         '''
         return self.__size
 
     @size.setter
     def size(self, value):
         '''
-        Docstring pour size
+        Set the size of the square with validation.
 
-        :param self: Description
-        :param value: Description
+        Args:
+            value (int): New size value.
+
+        Raises:
+            TypeError: If value is not an integer.
+            ValueError: If value is less than 0.
         '''
         if not isinstance(value, int):
             raise TypeError("size must be an integer")
@@ -42,17 +59,18 @@ class Square:
 
     def area(self):
         '''
-        Docstring pour area
+        Compute and return the area of the square.
 
-        :param self: Description
+        Returns:
+            int: The area of the square (size * size).
         '''
         return (self.__size * self.__size)
 
     def my_print(self):
         '''
-        Docstring pour my_print
+        Print the square using the `#` character.
 
-        :param self: Description
+        Prints nothing if size is 0.
         '''
         if self.__size == 0:
             return
