@@ -104,10 +104,11 @@ class Square:
         '''
         size = self.__size
         position = self.__position
-        for i in range(position[1]):
-            print()
+
         if size == 0:
             print()
-        else:
-            for i in range(size):
-                print(position[0] * ' ' + '#' * size)
+            return
+        for i in range(position[1]):
+            print()
+        for i in range(size):
+            print(position[0] * ' ' + '#' * size)
