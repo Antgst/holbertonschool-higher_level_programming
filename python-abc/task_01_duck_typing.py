@@ -5,17 +5,18 @@ task_01_duck_typing.py
 
 
 from abc import ABC, abstractmethod
+from math import pi
 
 
 class Shape(ABC):
     @abstractmethod
-    def area(self)
-    """Return the area of the shape."""
+    def area(self):
+        """Return the area of the shape."""
     pass
 
     @abstractmethod
-    def perimeter(self)
-    """Return the perimeter of the shape."""
+    def perimeter(self):
+        """Return the perimeter of the shape."""
     pass
 
 
@@ -39,7 +40,7 @@ class Rectangle(Shape):
         return self.width * self.height
 
     def perimeter(self):
-        return (self height * 2) + (self. width * 2)
+        return (self.height * 2) + (self.width * 2)
 
 
 def shape_info(shape):
