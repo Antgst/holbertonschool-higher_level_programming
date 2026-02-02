@@ -27,7 +27,7 @@ class Square:
             TypeError: If size is not an integer.
             ValueError: If size is less than 0.
         '''
-        self.__size = size
+        self.size = size
 
     @property
     def size(self):
@@ -73,6 +73,6 @@ class Square:
         Prints nothing if size is 0.
         '''
         if self.__size == 0:
-            return
+            print("")
         for i in range(self.__size):
             print("#" * self.__size)
