@@ -4,23 +4,24 @@
 
 class VerboseList(list):
     """"""
-    def append(item):
+    def append(self, item):
         """"""
         super().append(item)
-        print("Added [item] to the list")
+        print(f"Added [{item}] to the list.")
 
-    def extend(item):
+    def extend(self, iterable):
         """"""
-        x = len(item)
-        super().extend(x)
-        print("Extended the list with [x] items")
+        x = len(iterable)
+        super().extend(iterable)
+        print(f"Extended the list with [{x}] items.")
 
-    def remove(item):
+    def remove(self, item):
         """"""
-        super().remove()
-        print("Removed [item] from the list")
+        print(f"Removed [{item}] from the list.")
+        super().remove(item)
 
-    def pop(item):
+    def pop(self, index=-1):
         """"""
-        super().pop()
-        print("Popped [item] from the list")
+        item = self[index]
+        print(f"Popped [{item}] from the list.")
+        return super().pop(index)
