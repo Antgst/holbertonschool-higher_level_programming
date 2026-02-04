@@ -1,17 +1,16 @@
-#!/usr/bin/python 3
+#!/usr/bin/python3
 """Defines a custom list class with a method to print a sorted view.
 
-This module provides the MyList class, which inherits from Python's built-in
-list and adds a method to print the list elements in ascending order without
-modifying the original list."""
+This module defines MyList, a subclass of list, that can print its elements
+in ascending order without modifying the original list.
+"""
 
 
 class MyList(list):
-    """
-    Custom list that can print its elements sorted in ascending order.
-    """
+    """Subclass of list with a method to print elements sorted ascending."""
     def print_sorted(self):
-        """
-        Print the list sorted in ascending order without modifying itself.
+        """Print the list in ascending order without modifying the instance.
+
+        Assumes all elements are integers.
         """
         print(sorted(self))
