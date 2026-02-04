@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
-"""
-Defines an abstract Shape interface and concrete Circle and Rectangle classes.
-Includes shape_info(), which relies on duck typing (no explicit type checks).
-"""
+"""Module demonstrating abstract classes and duck typing with shapes."""
 
 from abc import ABC, abstractmethod
-from math import pi
+import math
 
 
 class Shape(ABC):
@@ -26,23 +23,35 @@ class Circle(Shape):
     """Circle defined by a radius."""
 
     def __init__(self, radius):
-        """Initialize a Circle with a radius."""
+        """Initialize a Circle with a non-negative radius."""
+        if not isinstance(radius, (int, float)):
+            raise TypeError("radius must be a number")
+        if radius < 0:
+            raise ValueError("radius must be >= 0")
         self.radius = radius
 
     def area(self):
         """Return the area of the circle."""
-        return pi * (self.radius ** 2)
+        return math.pi * (self.radius ** 2)
 
     def perimeter(self):
-        """Return the perimeter of the circle."""
-        return 2 * pi * self.radius
+        """Return the perimeter (circumference) of the circle."""
+        return 2 * math.pi * self.radius
 
 
 class Rectangle(Shape):
     """Rectangle defined by width and height."""
 
     def __init__(self, width, height):
-        """Initialize a Rectangle with width and height."""
+        """Initialize a Rectangle with non-negative dimensions."""
+        if not isinstance(width, (int, float)):
+            raise TypeError("width must be a number")
+        if not isinstance(height, (int, float)):
+            raise TypeError("height must be a number")
+        if width < 0:
+            raise ValueError("width must be >= 0")
+        if height < 0:
+            raise ValueError("height must be >= 0")
         self.width = width
         self.height = height
 
@@ -56,6 +65,6 @@ class Rectangle(Shape):
 
 
 def shape_info(shape):
-    """Print the area and perimeter of a shape (duck typing)."""
-    print("Area: {}".format(shape.area()))
-    print("Perimeter: {}".format(shape.perimeter()))
+    """Print area and perimeter of a shape using duck typing."""
+    print(f"Area: {shape.area()}")
+    print(f"Perimeter: {shape.perimeter()}")
