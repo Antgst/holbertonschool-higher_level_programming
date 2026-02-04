@@ -1,41 +1,50 @@
 >>> BaseGeometry = __import__('7-base_geometry').BaseGeometry
 >>> bg = BaseGeometry()
 
+# area(): always raises
 >>> try:
 ...     bg.area()
 ... except Exception as e:
-...     print(e)
-area() is not implemented
+...     print(type(e).__name__, e)
+Exception area() is not implemented
 
->>> bg.integer_validator("my_int", 12)
->>> bg.integer_validator("width", 89)
+# integer_validator(): valid positive integers -> returns None (no exception)
+>>> print(bg.integer_validator("my_int", 12))
+None
+>>> print(bg.integer_validator("width", 89))
+None
+>>> print(bg.integer_validator("one", 1))
+None
 
->>> try:
-...     bg.integer_validator("name", "John")
-... except Exception as e:
-...     print("[{}] {}".format(e.__class__.__name__, e))
+# not int -> TypeError with exact message
+>>> for name, value in [("name", "John"), ("pi", 3.14), ("n", None), ("lst", [1]), ("t", (1,)), ("d", {"a": 1}), ("s", {1})]:
+...     try:
+...         bg.integer_validator(name, value)
+...     except Exception as e:
+...         print("[{}] {}".format(type(e).__name__, e))
 [TypeError] name must be an integer
-
->>> try:
-...     bg.integer_validator("age", 0)
-... except Exception as e:
-...     print("[{}] {}".format(e.__class__.__name__, e))
-[ValueError] age must be greater than 0
-
->>> try:
-...     bg.integer_validator("distance", -4)
-... except Exception as e:
-...     print("[{}] {}".format(e.__class__.__name__, e))
-[ValueError] distance must be greater than 0
-
->>> try:
-...     bg.integer_validator("pi", 3.14)
-... except Exception as e:
-...     print("[{}] {}".format(e.__class__.__name__, e))
 [TypeError] pi must be an integer
+[TypeError] n must be an integer
+[TypeError] lst must be an integer
+[TypeError] t must be an integer
+[TypeError] d must be an integer
+[TypeError] s must be an integer
 
->>> try:
-...     bg.integer_validator("flag", True)
-... except Exception as e:
-...     print("[{}] {}".format(e.__class__.__name__, e))
+# bool is NOT accepted (bool is a subclass of int, but your code correctly rejects it)
+>>> for name, value in [("flag", True), ("flag", False)]:
+...     try:
+...         bg.integer_validator(name, value)
+...     except Exception as e:
+...         print("[{}] {}".format(type(e).__name__, e))
 [TypeError] flag must be an integer
+[TypeError] flag must be an integer
+
+# <= 0 -> ValueError with exact message
+>>> for name, value in [("age", 0), ("distance", -4), ("x", -1)]:
+...     try:
+...         bg.integer_validator(name, value)
+...     except Exception as e:
+...         print("[{}] {}".format(type(e).__name__, e))
+[ValueError] age must be greater than 0
+[ValueError] distance must be greater than 0
+[ValueError] x must be greater than 0
