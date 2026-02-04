@@ -1,18 +1,24 @@
 #!/usr/bin/python3
-"""Defines Square, a class extending Rectangle with a validated size and area computation."""
+"""10-square
+Defines a Square class that inherits from Rectangle.
+"""
 
 Rectangle = __import__('9-rectangle').Rectangle
 
 
 class Square(Rectangle):
-    """Square is a Rectangle with equal width and height."""
+    """Represents a square (a rectangle with equal sides)."""
 
     def __init__(self, size):
-        """Create a Square after validating size as a positive integer."""
+        """Initialize a Square with a validated size.
+
+        Args:
+            size (int): Side length (positive integer).
+        """
         self.integer_validator("size", size)
         super().__init__(size, size)
         self.__size = size
 
     def area(self):
-        """Return the square area computed from its size."""
-        return self.__size * self.__size
+        """Return the area of the square."""
+        return super().area()
