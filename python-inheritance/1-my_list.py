@@ -6,7 +6,7 @@ list and adds a method to print the list elements in ascending order without
 modifying the original list.'''
 
 
-class Mylist(list):
+class MyList(list):
     '''
     Custom list that can print its elements sorted in ascending order.
     '''
