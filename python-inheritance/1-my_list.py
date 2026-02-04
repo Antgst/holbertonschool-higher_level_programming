@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python 3
 """Defines a custom list class with a method to print a sorted view.
 
 This module provides the MyList class, which inherits from Python's built-in
