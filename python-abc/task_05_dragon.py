@@ -1,36 +1,28 @@
-#!/usr/bin/env python 3
+#!/usr/bin/env python3
 """
-Defines mixins for swimming and flying behaviors, and a Dragon class that
-combines them via multiple inheritance.
+Defines SwimMixin and FlyMixin, and a Dragon class that combines both behaviors.
 """
 
 
 class SwimMixin:
-    """Mixin that adds a swimming behavior to a class."""
-    def swing(self):
-        """Print a message indicating that the creature swims.
+    """Mixin that provides swimming behavior."""
 
-        Note:
-            The method name is `swing` in the provided code. If the intended
-            behavior is "swim", consider renaming it to `swim` for clarity.
-        """
-        print("The creature swims")
+    def swim(self):
+        """Print a message indicating that the creature swims."""
+        print("The creature swims!")
 
 
 class FlyMixin:
-    """Mixin that adds a flying behavior to a class."""
+    """Mixin that provides flying behavior."""
+
     def fly(self):
         """Print a message indicating that the creature flies."""
         print("The creature flies!")
 
 
 class Dragon(SwimMixin, FlyMixin):
-    """A dragon that can both swim and fly thanks to mixins.
+    """A dragon that can swim and fly by combining mixins."""
 
-    Inherits:
-        SwimMixin: Provides swimming behavior.
-        FlyMixin: Provides flying behavior.
-    """
     def roar(self):
         """Print a message indicating that the dragon roars."""
         print("The dragon roars!")
