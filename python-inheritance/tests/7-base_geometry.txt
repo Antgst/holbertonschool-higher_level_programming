@@ -19,6 +19,18 @@ area() is not implemented
 [TypeError] name must be an integer
 
 >>> try:
+...     bg.integer_validator("pi", 3.14)
+... except Exception as e:
+...     print("[{}] {}".format(e.__class__.__name__, e))
+[TypeError] pi must be an integer
+
+>>> try:
+...     bg.integer_validator("flag", True)
+... except Exception as e:
+...     print("[{}] {}".format(e.__class__.__name__, e))
+[TypeError] flag must be an integer
+
+>>> try:
 ...     bg.integer_validator("age", 0)
 ... except Exception as e:
 ...     print("[{}] {}".format(e.__class__.__name__, e))
