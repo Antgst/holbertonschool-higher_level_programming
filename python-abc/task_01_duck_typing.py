@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-This module defines an abstract Shape interface and two concrete classes,
-Circle and Rectangle. It also defines shape_info, a helper that relies on
-duck typing by calling area() and perimeter() without any explicit type checks.
+Defines an abstract Shape interface and concrete Circle and Rectangle classes.
+Includes shape_info(), which relies on duck typing (no explicit type checks).
 """
 
 from abc import ABC, abstractmethod
@@ -10,61 +9,53 @@ from math import pi
 
 
 class Shape(ABC):
-    """Shape defines the common interface that all
-    geometric shapes must provide."""
+    """Abstract base class for shapes."""
 
     @abstractmethod
     def area(self):
-        """Compute and return the area value for the current shape instance."""
-        raise NotImplementedError
+        """Return the area of the shape."""
+        pass
 
     @abstractmethod
     def perimeter(self):
-        """Compute and return the perimeter value
-        for the current shape instance."""
-        raise NotImplementedError
+        """Return the perimeter of the shape."""
+        pass
 
 
 class Circle(Shape):
-    """Circle represents a shape defined by a radius
-    and supports area and perimeter."""
+    """Circle defined by a radius."""
 
-    def __init__(self, radius=0):
-        """Initialize a Circle instance with a numeric radius value."""
+    def __init__(self, radius):
+        """Initialize a Circle with a radius."""
         self.radius = radius
 
     def area(self):
-        """Compute and return the area of the circle using pi * r^2."""
+        """Return the area of the circle."""
         return pi * (self.radius ** 2)
 
     def perimeter(self):
-        """Compute and return the circumference of
-        the circle using 2 * pi * r."""
+        """Return the perimeter of the circle."""
         return 2 * pi * self.radius
 
 
 class Rectangle(Shape):
-    """Rectangle represents a shape defined by width
-    and height with area and perimeter."""
+    """Rectangle defined by width and height."""
 
-    def __init__(self, width=0, height=0):
-        """Initialize a Rectangle instance with numeric
-        width and height values."""
+    def __init__(self, width, height):
+        """Initialize a Rectangle with width and height."""
         self.width = width
         self.height = height
 
     def area(self):
-        """Compute and return the rectangle area using width * height."""
+        """Return the area of the rectangle."""
         return self.width * self.height
 
     def perimeter(self):
-        """Compute and return the rectangle perimeter
-        using 2 * (width + height)."""
+        """Return the perimeter of the rectangle."""
         return 2 * (self.width + self.height)
 
 
 def shape_info(shape):
-    """Print the area and perimeter by calling
-    area() and perimeter() on the given object."""
+    """Print the area and perimeter of a shape (duck typing)."""
     print("Area: {}".format(shape.area()))
     print("Perimeter: {}".format(shape.perimeter()))
