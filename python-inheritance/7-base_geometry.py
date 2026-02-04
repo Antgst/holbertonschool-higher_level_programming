@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-"""7-base_geometry
-Defines a BaseGeometry class with area() and integer_validator().
+"""Defines BaseGeometry with an unimplemented
+area method and an integer validator.
+
+The integer validator enforces a strictly positive integer value and raises
+TypeError or ValueError with the required message.
 """
 
 
