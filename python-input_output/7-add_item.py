@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-''''''
+'''Script that adds command-line arguments to a list and saves it as JSON.
+
+The script loads a list from 'add_item.json' if it exists, appends all
+command-line arguments to this list, then saves the updated list back to the
+same file in JSON format.'''
 
 import sys
 
