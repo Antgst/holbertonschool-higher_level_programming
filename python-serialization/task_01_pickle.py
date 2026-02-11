@@ -1,29 +1,39 @@
 #!/usr/bin/env python3
-'''Module that provides basic JSON serialization and
-deserialization for dictionaries.'''
-
-import json
+'''task_01_pickle.py
+Pickling Custom Classes'''
 
 
-def serialize_and_save_to_file(data, filename):
-    '''Serialize a Python dictionary to JSON and save it to a file.
-
-    The output file is created if it doesn't exist and replaced if it does.
-
-    Args:
-        data (dict): Dictionary to serialize.
-        filename (str): Path to the output JSON file.'''
-    with open(filename, 'w', encoding="utf-8") as f:
-        json.dump(data, f)
+import pickle
 
 
-def load_and_deserialize(filename):
-    '''Load JSON data from a file and deserialize it into a Python dictionary.
+class CustomObject:
 
-    Args:
-        filename (str): Path to the input JSON file.
+    def __init__(self, name, age, is_student):
+        self.name = name
+        self.age = age
+        self.is_student = is_student
 
-    Returns:
-        dict: Dictionary obtained from the JSON content.'''
-    with open(filename, 'r', encoding="utf-8") as f:
-        return json.load(f)
+    def display(self):
+        print(f"Name: {self.name}")
+        print(f"Age: {self.age}")
+        print(f"Is student: {self.is_student}")
+
+    def serialize(self, filename):
+        try:
+            with open(filename, "wb") as f:
+                pickle.dump(self, f)
+        except (OSError, pickle.PickleError, Exception):
+            return None
+        return None
+
+    @classmethod
+    def deserialize(cls, filename):
+        try:
+            with open(filename, "rb") as f:
+                obj = pickle.load(f)
+            if isinstance(obj, cls):
+                return obj
+            return None
+        except (OSError, pickle.UnpicklingError, EOFError, AttributeError,
+                ValueError, Exception):
+            return None
