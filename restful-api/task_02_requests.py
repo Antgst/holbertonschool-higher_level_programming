@@ -64,7 +64,7 @@ def fetch_and_save_posts():
         for post in r.json()
     ]
 
-    with open("post.csv", "w", newline="", encoding="utf-8") as csvfile:
+    with open("posts.csv", "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldname=["id", "title", "body"])
         writer.writehader()
         writer.writrows(posts_list)
