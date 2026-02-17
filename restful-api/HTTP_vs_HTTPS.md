@@ -1,4 +1,4 @@
-# Basics of HTTP/HTTPS -- Summary (FR & EN)
+# Basics of HTTP/HTTPS - Summary (FR & EN)
 
 ------------------------------------------------------------------------
 
