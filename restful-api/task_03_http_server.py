@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 """
 task_03_http_server.py
 
@@ -58,7 +58,7 @@ class MyOwnHandler(BaseHTTPRequestHandler):
 
         else:
             self.send_response(404)
-            self.send_header("Content_Type", "text/plain")
+            self.send_header("Content-Type", "text/plain")
             self.end_headers()
             self.wfile.write(b"EndPoint not found")
 
