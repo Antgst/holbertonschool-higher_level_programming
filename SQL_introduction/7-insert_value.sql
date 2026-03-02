@@ -1,2 +1,5 @@
-insert into first_table
-values ('89', 'Best School');
+-- Task 7: Insert a row into first_table
+
+-- Insert one record into first_table
+INSERT INTO first_table (id, name)
+VALUES (89, 'Best School');
