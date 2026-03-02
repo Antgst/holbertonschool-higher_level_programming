@@ -1,1 +1,3 @@
-select * from first_table in hbtn_0c_0;
+select * from first_table(
+    hbtn_0c_0
+)
