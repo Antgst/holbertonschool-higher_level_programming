@@ -1,1 +1,1 @@
-show tables from databases;
+show tables from database;
