@@ -1,1 +1,1 @@
-select count (*) from first_table where values ('89');
+select count (*) from first_table where id = 89;
