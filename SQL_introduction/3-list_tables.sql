@@ -1,0 +1,1 @@
+show tables from databases;
