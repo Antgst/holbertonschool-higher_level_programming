@@ -1,1 +1,1 @@
-drop hbtn_0c_0 if not exists hbtn_0c_0;
+drop database if exists hbtn_0c_0;
