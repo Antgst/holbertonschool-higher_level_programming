@@ -7,16 +7,16 @@ import MySQLdb
 if __name__ == "__main__":
     user = sys.argv[1]
     password = sys.argv[2]
-    db = sys.argv[3]
-    conn = MySQLdb.connect(
+    database = sys.argv[3]
+    db = MySQLdb.connect(
         host="localhost",
         port=3306,
         user=user,
         passwd=password,
-        conn=db,
+        db=database,
         charset="utf8"
     )
-    cursor = conn.cursor()
+    cursor = db.cursor()
     cursor.execute(
         "SELECT id, name "
         "FROM states "
@@ -26,4 +26,4 @@ if __name__ == "__main__":
     for row in rows:
         print(row)
     cursor.close()
-    conn.close()
+    db.close()
