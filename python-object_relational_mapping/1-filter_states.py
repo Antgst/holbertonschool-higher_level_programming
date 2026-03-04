@@ -16,7 +16,6 @@ if __name__ == "__main__":
         user=user,
         passwd=password,
         db=database,
-        charset="utf8"
     )
 
     cursor = db.cursor()
