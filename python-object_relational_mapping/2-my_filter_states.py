@@ -23,10 +23,10 @@ if __name__ == "__main__":
     cursor = conn.cursor()
 
     query = (
-        "SELECT id, name "
+        "SELECT states.id, states.name "
         "FROM states "
         "WHERE name = '{}' "
-        "ORDER BY id ASC"
+        "ORDER BY states.id ASC"
     ).format(state)
 
     cursor.execute(query)
