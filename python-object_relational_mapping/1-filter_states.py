@@ -13,7 +13,7 @@ if __name__ == "__main__":
         port=3306,
         user=user,
         passwd=password,
-        db=db,
+        conn=db,
         charset="utf8"
     )
     cursor = conn.cursor()
