@@ -6,26 +6,26 @@ import MySQLdb
 
 
 if __name__ == "__main__":
-    user = sys.argv[1]
+    username = sys.argv[1]
     password = sys.argv[2]
-    db = sys.argv[3]
+    database = sys.argv[3]
     state = sys.argv[4]
 
-    conn = MySQLdb.connect(
+    db = MySQLdb.connect(
         host="localhost",
         port=3306,
-        user=user,
+        user=username,
         passwd=password,
-        db=db,
+        db=database,
         charset="utf8"
     )
 
-    cursor = conn.cursor()
+    cursor = db.cursor()
 
     query = (
         "SELECT states.id, states.name "
         "FROM states "
-        "WHERE name = '{}' "
+        "WHERE name = BINARY '{}' "
         "ORDER BY states.id ASC"
     ).format(state)
 
@@ -37,4 +37,4 @@ if __name__ == "__main__":
         print(row)
 
     cursor.close()
-    conn.close()
+    db.close()
