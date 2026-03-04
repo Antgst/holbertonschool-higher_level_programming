@@ -6,29 +6,25 @@ import MySQLdb
 
 
 if __name__ == "__main__":
-    username = sys.argv[1]
+    user = sys.argv[1]
     password = sys.argv[2]
-    database = sys.argv[3]
-
-    db = MySQLdb.connect(
+    db = sys.argv[3]
+    conn = MySQLdb.connect(
         host="localhost",
         port=3306,
-        user=username,
+        user=user,
         passwd=password,
-        db=database,
+        db=db,
+        charset="utf8"
     )
-
-    cursor = db.cursor()
+    cursor = conn.cursor()
     cursor.execute(
         "SELECT id, name "
         "FROM states "
         "WHERE name LIKE BINARY 'N%' "
         "ORDER BY id ASC")
-
     rows = cursor.fetchall()
-
     for row in rows:
         print(row)
-
     cursor.close()
-    db.close()
+    conn.close()
