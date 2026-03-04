@@ -17,7 +17,10 @@ if __name__ == "__main__":
         charset="utf8"
     )
     cursor = conn.cursor()
-    cursor.execute("SELECT id, name FROM states ORDER BY id ASC")
+    cursor.execute(
+        "SELECT id, name " \
+        "FROM states " \
+        "ORDER BY id ASC")
     rows = cursor.fetchall()
     for row in rows:
         print(row)
