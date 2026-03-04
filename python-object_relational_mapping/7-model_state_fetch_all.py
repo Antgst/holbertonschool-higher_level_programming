@@ -12,4 +12,18 @@ if __name__ == "__main__":
     password = sys.argv[2]
     database = sys.argv[3]
 
-    
+    url = "mysql+mysqldb://{}:{}@localhost/{}".format(
+        username, password, database
+    )
+
+    engine = create_engine(url, pool_pre_ping=True)
+
+    Session = sessionmaker(bind=engine)
+    session = Session()
+
+    states = session.query(State).order_by(State.id).all()
+
+    for st in states:
+        print("{}: {}".format(st.id, st.name))
+
+    session.close()
