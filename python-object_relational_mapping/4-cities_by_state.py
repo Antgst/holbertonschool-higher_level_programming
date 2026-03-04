@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""List all cities from the database along with their state name, ordered by cities.id."""
+"""List all cities from the database along with
+their state name, ordered by cities.id."""
 
 import sys
 import MySQLdb
