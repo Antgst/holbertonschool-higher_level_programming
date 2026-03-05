@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 """
-Define the City class mapped to the 'cities' table using SQLAlchemy ORM.
+List all City objects from the database and display them with their State.
 
-The City model includes an id primary key, a name field, and a state_id
-foreign key that references states.id.
+The script retrieves all cities ordered by cities.id and prints each line as:
+<state name>: (<city id>) <city name>.
 """
 
 import sys
 from model_state import Base, State
+from model_city import City
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
@@ -25,4 +26,14 @@ if __name__ == "__main__":
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    
+    rows = (
+        session.query(State.name, City.id, City.name)
+        .join(City, City.state_id == State.id)
+        .order_by(City.id.asc())
+        .all()
+    )
+
+    for state_name, city_id, city_name in rows:
+        print("{}: ({}) {}".format(state_name, city_id, city_name))
+
+    session.close()
