@@ -34,7 +34,9 @@ if __name__ == "__main__":
     cursor.execute(query, (state,))
 
     rows = cursor.fetchall()
+
     print(", ".join([row[0] for row in rows]))
 
     cursor.close()
+
     db.close()

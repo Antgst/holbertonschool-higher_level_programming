@@ -20,6 +20,7 @@ if __name__ == "__main__":
     )
 
     cursor = db.cursor()
+
     cursor.execute(
         "SELECT id, name "
         "FROM states "
@@ -31,4 +32,5 @@ if __name__ == "__main__":
         print(row)
 
     cursor.close()
+
     db.close()

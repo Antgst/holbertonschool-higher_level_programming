@@ -19,16 +19,17 @@ if __name__ == "__main__":
     engine = create_engine(url, pool_pre_ping=True)
 
     Session = sessionmaker(bind=engine)
+
     session = Session()
 
-    st = (
+    states = (
         session.query(State)
         .filter(State.name == state_name)
         .first()
     )
 
-    if st:
-        print(st.id)
+    if states:
+        print(states.id)
     else:
         print("Not found")
 

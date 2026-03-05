@@ -22,11 +22,13 @@ if __name__ == "__main__":
     engine = create_engine(url, pool_pre_ping=True)
 
     Session = sessionmaker(bind=engine)
+
     session = Session()
 
     state = session.get(State, 2)
     if state is not None:
         state.name = "New Mexico"
-        session.commit()
+
+    session.commit()
 
     session.close()
