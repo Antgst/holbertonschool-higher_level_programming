@@ -12,7 +12,7 @@ if __name__ == "__main__":
     password = sys.argv[2]
     database = sys.argv[3]
 
-    url = "mysql+mysqldb://{}:{}@localhost/{}".format(
+    url = "mysql+mysqldb://{}:{}@localhost:3306/{}".format(
         username, password, database
     )
 
