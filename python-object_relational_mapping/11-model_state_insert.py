@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Add the State object 'Louisiana' to the database hbtn_0e_6_usa using SQLAlchemy and print the new state's id."""
+"""Add the State object 'Louisiana' to the database
+hbtn_0e_6_usa using SQLAlchemy and print the new state's id."""
 
 import sys
 from model_state import Base, State
