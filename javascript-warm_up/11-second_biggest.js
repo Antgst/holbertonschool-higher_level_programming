@@ -1,21 +1,10 @@
 #!/usr/bin/node
 
-const args = process.argv.slice(2).map(x => parseInt(x));
+const args = process.argv.slice(2).map(Number);
 
-if (args.legth < 2) {
+if (args.length < 2) {
   console.log(0);
 } else {
-  let max = args[0];
-  let second = Number.MAX_SAFE_INTEGER;
-
-  for (let i = 1; i < args.length; i++) {
-    if (args[i] > max) {
-      second = max;
-      max = args[i];
-    } else if (args[i] > second && args[i] < max) {
-      second = args[i];
-    }
-  }
-
-  console.log(second);
+  args.sort((a, b) => b - a);
+  console.log(args[1]);
 }
