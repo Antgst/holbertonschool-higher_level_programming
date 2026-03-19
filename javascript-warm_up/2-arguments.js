@@ -1,5 +1,7 @@
 #!/usr/bin/node
 
+const arguments = 
+
 if (arguments === 0) { 
 console.log('No argument');
 }
