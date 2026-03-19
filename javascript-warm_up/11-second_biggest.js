@@ -3,7 +3,7 @@
 const args = process.argv.slice(2).map(x => parseInt(x));
 
 if (args.legth < 2) {
-console.log(0);
+  console.log(0);
 } else {
   let max = args[0];
   let second = Number.MAX_SAFE_INTEGER;
