@@ -1,5 +1,5 @@
 const header = document.querySelector('header');
-const toogle = document.querySelector('toogle_header');
+const toogle = document.querySelector('#toggle_header');
 
 toogle.addEventListener('click', function () {
   if (header.classList.contains('red')) {
