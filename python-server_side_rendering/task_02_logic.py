@@ -28,7 +28,7 @@ def items():
     except FileNotFoundError:
         items = []
 
-    return render_template('items.html', items=data['items'])
+    return render_template('items.html', items=items)
 
 
 if __name__ == '__main__':
