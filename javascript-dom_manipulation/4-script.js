@@ -3,6 +3,6 @@ const list = document.querySelector('.my_list');
 
 item.addEventListener('click', function () {
   const li = document.createElement('li');
-  li.textContent = "Item";
+  li.textContent = 'Item';
   list.append(li)
 });
