@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - Everything is object
+# 📘 Python - Everything is object
 
-## ðŸ“Œ Description
+## 📌 Description
 
 <br />
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -26,7 +26,7 @@
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -64,7 +64,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### Python Scripts
 
@@ -102,20 +102,20 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Who am I?</summary>
@@ -155,12 +155,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Who am I?
 Commit used:
 User:
@@ -175,9 +175,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Who am I?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -222,12 +222,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Where are you?
 Commit used:
 User:
@@ -242,9 +242,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Where are you?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -301,12 +301,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Right count
 Commit used:
 User:
@@ -321,9 +321,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Right count"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -380,12 +380,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Right count =
 Commit used:
 User:
@@ -400,9 +400,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Right count ="
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -458,12 +458,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Right count =
 Commit used:
 User:
@@ -478,9 +478,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Right count ="
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -537,12 +537,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Right count =+
 Commit used:
 User:
@@ -557,9 +557,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Right count =+"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -609,12 +609,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Is equal
 Commit used:
 User:
@@ -629,9 +629,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Is equal"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -683,12 +683,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Is the same
 Commit used:
 User:
@@ -703,9 +703,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Is the same"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -756,12 +756,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Is really equal
 Commit used:
 User:
@@ -776,9 +776,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Is really equal"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -831,12 +831,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Is really the same
 Commit used:
 User:
@@ -851,9 +851,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Is really the same"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -914,12 +914,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. And with a list, is it equal
 Commit used:
 User:
@@ -934,9 +934,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. And with a list, is it equal"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -999,12 +999,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. And with a list, is it the same
 Commit used:
 User:
@@ -1019,9 +1019,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. And with a list, is it the same"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1076,12 +1076,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. And with a list, is it really equal
 Commit used:
 User:
@@ -1096,9 +1096,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. And with a list, is it really equal"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1155,12 +1155,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. And with a list, is it really the same
 Commit used:
 User:
@@ -1175,9 +1175,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. And with a list, is it really the same"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1234,12 +1234,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 14. List append
 Commit used:
 User:
@@ -1254,9 +1254,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "14. List append"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1302,12 +1302,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 15. List add
 Commit used:
 User:
@@ -1322,9 +1322,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "15. List add"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1377,12 +1377,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 16. Integer incrementation
 Commit used:
 User:
@@ -1397,9 +1397,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "16. Integer incrementation"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1461,12 +1461,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 17. List incrementation
 Commit used:
 User:
@@ -1481,9 +1481,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "17. List incrementation"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1548,12 +1548,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 18. List assignation
 Commit used:
 User:
@@ -1568,9 +1568,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "18. List assignation"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1693,12 +1693,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 19. Copy a list object
 Commit used:
 User:
@@ -1713,9 +1713,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "19. Copy a list object"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1765,12 +1765,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 20. Tuple or not?
 Commit used:
 User:
@@ -1785,9 +1785,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "20. Tuple or not?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1841,12 +1841,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 21. Tuple or not?
 Commit used:
 User:
@@ -1861,9 +1861,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "21. Tuple or not?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1915,12 +1915,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 22. Tuple or not?
 Commit used:
 User:
@@ -1935,9 +1935,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "22. Tuple or not?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1989,12 +1989,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 23. Tuple or not?
 Commit used:
 User:
@@ -2009,9 +2009,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "23. Tuple or not?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2056,12 +2056,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 24. Who I am?
 Commit used:
 User:
@@ -2076,9 +2076,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "24. Who I am?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2123,12 +2123,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 25. Tuple or not
 Commit used:
 User:
@@ -2143,9 +2143,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "25. Tuple or not"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2190,12 +2190,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 26. Empty is not empty
 Commit used:
 User:
@@ -2210,9 +2210,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "26. Empty is not empty"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2274,12 +2274,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 27. Still the same?
 Commit used:
 User:
@@ -2294,9 +2294,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "27. Still the same?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2358,12 +2358,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 28. Same or not?
 Commit used:
 User:
@@ -2378,9 +2378,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "28. Same or not?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2390,13 +2390,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

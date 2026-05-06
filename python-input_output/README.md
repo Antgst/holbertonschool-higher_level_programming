@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - Input/Output
+# 📘 Python - Input/Output
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -28,7 +28,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -68,7 +68,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### Python Scripts
 
@@ -118,20 +118,20 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Read file</summary>
@@ -230,12 +230,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Read file
 Commit used:
 User:
@@ -250,9 +250,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Read file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -345,12 +345,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Write to a file
 Commit used:
 User:
@@ -365,9 +365,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Write to a file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -494,12 +494,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Append to a file
 Commit used:
 User:
@@ -514,9 +514,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Append to a file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -701,12 +701,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. To JSON string
 Commit used:
 User:
@@ -721,9 +721,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. To JSON string"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -884,12 +884,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. From JSON string to Object
 Commit used:
 User:
@@ -904,9 +904,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. From JSON string to Object"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1102,12 +1102,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Save Object to a file
 Commit used:
 User:
@@ -1122,9 +1122,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Save Object to a file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1378,12 +1378,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Create object from a JSON file
 Commit used:
 User:
@@ -1398,9 +1398,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Create object from a JSON file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1532,12 +1532,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Load, add, save
 Commit used:
 User:
@@ -1552,9 +1552,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Load, add, save"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1857,12 +1857,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Class to JSON
 Commit used:
 User:
@@ -1877,9 +1877,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Class to JSON"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2032,12 +2032,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Student to JSON
 Commit used:
 User:
@@ -2052,9 +2052,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Student to JSON"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2211,12 +2211,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Student to JSON with filter
 Commit used:
 User:
@@ -2231,9 +2231,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Student to JSON with filter"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2512,12 +2512,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Student to disk and reload
 Commit used:
 User:
@@ -2532,9 +2532,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Student to disk and reload"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2676,12 +2676,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Pascal's Triangle
 Commit used:
 User:
@@ -2696,9 +2696,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Pascal's Triangle"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2708,13 +2708,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

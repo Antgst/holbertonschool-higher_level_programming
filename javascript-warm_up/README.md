@@ -1,12 +1,12 @@
-# ðŸ“˜ JavaScript - Warm up
+# 📘 JavaScript - Warm up
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -40,7 +40,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -84,7 +84,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -108,13 +108,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -233,7 +233,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. First constant, first print</summary>
@@ -302,12 +302,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. First constant, first print
 Commit used:
 User:
@@ -322,9 +322,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. First constant, first print"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -389,12 +389,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. 3 languages
 Commit used:
 User:
@@ -409,9 +409,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. 3 languages"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -497,12 +497,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Arguments
 Commit used:
 User:
@@ -517,9 +517,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Arguments"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -591,12 +591,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Value of my argument
 Commit used:
 User:
@@ -611,9 +611,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Value of my argument"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -690,12 +690,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Create a sentence
 Commit used:
 User:
@@ -710,9 +710,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Create a sentence"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -820,12 +820,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. An Integer
 Commit used:
 User:
@@ -840,9 +840,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. An Integer"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -919,12 +919,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Loop to languages
 Commit used:
 User:
@@ -939,9 +939,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Loop to languages"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1044,12 +1044,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. I love C
 Commit used:
 User:
@@ -1064,9 +1064,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. I love C"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1178,12 +1178,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Square
 Commit used:
 User:
@@ -1198,9 +1198,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Square"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1294,12 +1294,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Add
 Commit used:
 User:
@@ -1314,9 +1314,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Add"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1409,12 +1409,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Factorial
 Commit used:
 User:
@@ -1429,9 +1429,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Factorial"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1519,12 +1519,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Second biggest!
 Commit used:
 User:
@@ -1539,9 +1539,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Second biggest!"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1630,12 +1630,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Object
 Commit used:
 User:
@@ -1650,9 +1650,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Object"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1730,12 +1730,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. Add file
 Commit used:
 User:
@@ -1750,9 +1750,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. Add file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1762,13 +1762,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

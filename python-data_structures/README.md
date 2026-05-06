@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - Data Structures: Lists, Tuples
+# 📘 Python - Data Structures: Lists, Tuples
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -20,7 +20,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -54,7 +54,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### Python Scripts
 
@@ -78,13 +78,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -289,7 +289,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Print a list of integers</summary>
@@ -374,12 +374,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Print a list of integers
 Commit used:
 User:
@@ -394,9 +394,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Print a list of integers"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -498,12 +498,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Secure access to an element in a list
 Commit used:
 User:
@@ -518,9 +518,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Secure access to an element in a list"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -640,12 +640,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Replace element
 Commit used:
 User:
@@ -660,9 +660,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Replace element"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -752,12 +752,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Print a list of integers... in reverse!
 Commit used:
 User:
@@ -772,9 +772,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Print a list of integers... in reverse!"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -896,12 +896,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Replace in a copy
 Commit used:
 User:
@@ -916,9 +916,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Replace in a copy"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1007,12 +1007,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Can you C me now?
 Commit used:
 User:
@@ -1027,9 +1027,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Can you C me now?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1136,12 +1136,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Lists of lists = Matrix
 Commit used:
 User:
@@ -1156,9 +1156,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Lists of lists = Matrix"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1267,12 +1267,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Tuples addition
 Commit used:
 User:
@@ -1287,9 +1287,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Tuples addition"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1373,12 +1373,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. More returns!
 Commit used:
 User:
@@ -1393,9 +1393,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. More returns!"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1493,12 +1493,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Find the max
 Commit used:
 User:
@@ -1513,9 +1513,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Find the max"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1648,12 +1648,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Only by 2
 Commit used:
 User:
@@ -1668,9 +1668,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Only by 2"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1778,12 +1778,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Delete at
 Commit used:
 User:
@@ -1798,9 +1798,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Delete at"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1874,12 +1874,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Switch
 Commit used:
 User:
@@ -1894,9 +1894,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Switch"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1906,13 +1906,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

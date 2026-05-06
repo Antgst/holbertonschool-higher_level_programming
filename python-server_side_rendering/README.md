@@ -1,6 +1,6 @@
-# ðŸ“˜ Python - Server-Side Rendering
+# 📘 Python - Server-Side Rendering
 
-## ðŸ“Œ Description
+## 📌 Description
 
 Server-side rendering is a powerful technique where web pages are generated on the server and sent to the client as fully formed HTML. This contrasts with client-side rendering, where the browser builds the web page using JavaScript and dynamic data. Through this project, you will learn how to implement SSR using Python and Flask, leveraging the Jinja templating engine to create dynamic, efficient, and SEO-friendly web applications.
 
@@ -50,38 +50,38 @@ This project will equip you with the skills needed to implement server-side rend
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 _No resources detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 _No learning objectives detected._
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 _No requirements detected._
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Creating a Simple Templating Program</summary>
@@ -333,11 +333,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 0. Creating a Simple Templating Program
 Commit used:
 User:
@@ -352,7 +352,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Creating a Simple Templating Program"
 ```
 
@@ -636,11 +636,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 1. Creating a Basic HTML Template in Flask
 Commit used:
 User:
@@ -655,7 +655,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Creating a Basic HTML Template in Flask"
 ```
 
@@ -784,11 +784,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 2. Creating a Dynamic Template with Loops and Conditions in Flask
 Commit used:
 User:
@@ -803,7 +803,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Creating a Dynamic Template with Loops and Conditions in Flask"
 ```
 
@@ -1013,11 +1013,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 3. Displaying Data from JSON or CSV Files in Flask
 Commit used:
 User:
@@ -1032,7 +1032,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Displaying Data from JSON or CSV Files in Flask"
 ```
 
@@ -1190,11 +1190,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 4. Extending Dynamic Data Display to Include SQLite in Flask
 Commit used:
 User:
@@ -1209,7 +1209,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Extending Dynamic Data Display to Include SQLite in Flask"
 ```
 
@@ -1218,13 +1218,13 @@ Students who are done with "4. Extending Dynamic Data Display to Include SQLite 
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

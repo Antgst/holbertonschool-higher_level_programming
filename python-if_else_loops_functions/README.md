@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - if/else, loops, functions
+# 📘 Python - if/else, loops, functions
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -32,7 +32,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -72,7 +72,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### Python Scripts
 
@@ -96,13 +96,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -277,7 +277,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Positive anything is better than negative nothing</summary>
@@ -426,12 +426,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Positive anything is better than negative nothing
 Commit used:
 User:
@@ -446,9 +446,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Positive anything is better than negative nothing"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -711,12 +711,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. The last digit
 Commit used:
 User:
@@ -731,9 +731,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. The last digit"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -792,12 +792,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 Commit used:
 User:
@@ -812,9 +812,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -877,12 +877,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. When I was having that alphabet soup, I never thought that it would pay off
 Commit used:
 User:
@@ -897,9 +897,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. When I was having that alphabet soup, I never thought that it would pay off"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1029,12 +1029,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Hexadecimal printing
 Commit used:
 User:
@@ -1049,9 +1049,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Hexadecimal printing"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1314,12 +1314,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. 00...99
 Commit used:
 User:
@@ -1334,9 +1334,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. 00...99"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1494,12 +1494,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 Commit used:
 User:
@@ -1514,9 +1514,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Inventing is a combination of brains and materials. The more brains you use, the less material you need"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1675,12 +1675,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. islower
 Commit used:
 User:
@@ -1695,9 +1695,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. islower"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1789,12 +1789,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. To uppercase
 Commit used:
 User:
@@ -1809,9 +1809,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. To uppercase"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1894,12 +1894,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
 Commit used:
 User:
@@ -1914,9 +1914,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2007,12 +2007,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. a + b
 Commit used:
 User:
@@ -2027,9 +2027,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. a + b"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2144,12 +2144,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. a ^ b
 Commit used:
 User:
@@ -2164,9 +2164,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. a ^ b"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2249,12 +2249,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Fizz Buzz
 Commit used:
 User:
@@ -2269,9 +2269,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Fizz Buzz"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2281,13 +2281,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

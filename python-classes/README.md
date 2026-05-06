@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - Classes and Objects
+# 📘 Python - Classes and Objects
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -26,7 +26,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -76,7 +76,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -108,13 +108,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -286,7 +286,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. My first square</summary>
@@ -361,12 +361,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. My first square
 Commit used:
 User:
@@ -381,9 +381,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. My first square"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -503,12 +503,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Square with size
 Commit used:
 User:
@@ -523,9 +523,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Square with size"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -706,12 +706,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Size validation
 Commit used:
 User:
@@ -726,9 +726,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Size validation"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -863,12 +863,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Area of a square
 Commit used:
 User:
@@ -883,9 +883,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Area of a square"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1032,12 +1032,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Access and update private attribute
 Commit used:
 User:
@@ -1052,9 +1052,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Access and update private attribute"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1206,12 +1206,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Printing a square
 Commit used:
 User:
@@ -1226,9 +1226,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Printing a square"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1422,12 +1422,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Coordinates of a square
 Commit used:
 User:
@@ -1442,9 +1442,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Coordinates of a square"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1454,13 +1454,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

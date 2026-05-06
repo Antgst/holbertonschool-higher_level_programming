@@ -1,43 +1,43 @@
-# ðŸ“˜ Python - Serialization
+# 📘 Python - Serialization
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 _No resources detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 _No learning objectives detected._
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 _No requirements detected._
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Basic Serialization</summary>
@@ -163,11 +163,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 0. Basic Serialization
 Commit used:
 User:
@@ -182,7 +182,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Basic Serialization"
 ```
 
@@ -315,11 +315,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 1. Pickling Custom Classes
 Commit used:
 User:
@@ -334,7 +334,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Pickling Custom Classes"
 ```
 
@@ -505,11 +505,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 2. Converting CSV Data to JSON Format
 Commit used:
 User:
@@ -524,7 +524,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Converting CSV Data to JSON Format"
 ```
 
@@ -692,11 +692,11 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 QA Review
-Ã—
+×
 3. Serializing and Deserializing with XML
 Commit used:
 User:
@@ -711,7 +711,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Serializing and Deserializing with XML"
 ```
 
@@ -720,13 +720,13 @@ Students who are done with "3. Serializing and Deserializing with XML"
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

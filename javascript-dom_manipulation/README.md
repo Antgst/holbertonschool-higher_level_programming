@@ -1,12 +1,12 @@
-# ðŸ“˜ JavaScript DOM manipulation
+# 📘 JavaScript DOM manipulation
 
-## ðŸ“Œ Description
+## 📌 Description
 
 # JavaScript DOM Manipulation
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 ### Read or watch:
 
@@ -34,7 +34,7 @@
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
 
@@ -62,7 +62,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -78,24 +78,24 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 - You are not allowed to use var
 
-- HTML should not reload for each action: DOM manipulation, update values, fetch dataâ€¦
+- HTML should not reload for each action: DOM manipulation, update values, fetch data…
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 _No quiz detected in the exported HTML._
 
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Color Me</summary>
@@ -195,7 +195,7 @@ pt
 0
 correction requests
 QA Review
-Ã—
+×
 0. Color Me
 Commit used:
 User:
@@ -210,7 +210,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Color Me"
 ```
 
@@ -323,7 +323,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 1. Click and turn red
 Commit used:
 User:
@@ -338,7 +338,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Click and turn red"
 ```
 
@@ -463,7 +463,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 2. Add `.red` class
 Commit used:
 User:
@@ -478,7 +478,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Add `.red` class"
 ```
 
@@ -626,7 +626,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 3. Toggle classes
 Commit used:
 User:
@@ -641,7 +641,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Toggle classes"
 ```
 
@@ -780,7 +780,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 4. List of elements
 Commit used:
 User:
@@ -795,7 +795,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. List of elements"
 ```
 
@@ -913,7 +913,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 5. Change the text
 Commit used:
 User:
@@ -928,7 +928,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Change the text"
 ```
 
@@ -1052,7 +1052,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 6. Star wars character
 Commit used:
 User:
@@ -1067,7 +1067,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Star wars character"
 ```
 
@@ -1187,7 +1187,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 7. Star Wars movies
 Commit used:
 User:
@@ -1202,7 +1202,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Star Wars movies"
 ```
 
@@ -1230,7 +1230,7 @@ hello
 from that fetch in the HTML element with id
 hello
 .
-The translation of â€œhelloâ€ must be displayed in the HTML element with id
+The translation of “hello” must be displayed in the HTML element with id
 hello
 Your script must work when it is imported from the
 <head>
@@ -1325,7 +1325,7 @@ pts
 0
 correction requests
 QA Review
-Ã—
+×
 8. Say Hello!
 Commit used:
 User:
@@ -1340,7 +1340,7 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Say Hello!"
 ```
 
@@ -1349,13 +1349,13 @@ Students who are done with "8. Say Hello!"
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

@@ -1,12 +1,12 @@
-# ðŸ“˜ SQL - More queries
+# 📘 SQL - More queries
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -54,7 +54,7 @@ Extra resources around relational database model design:
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -82,7 +82,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -106,13 +106,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -250,7 +250,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. My privileges!</summary>
@@ -374,12 +374,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. My privileges!
 Commit used:
 User:
@@ -394,9 +394,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. My privileges!"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -508,12 +508,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Root user
 Commit used:
 User:
@@ -528,9 +528,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Root user"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -652,12 +652,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Read user
 Commit used:
 User:
@@ -672,9 +672,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Read user"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -779,12 +779,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Always a name
 Commit used:
 User:
@@ -799,9 +799,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Always a name"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -909,12 +909,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. ID can't be null
 Commit used:
 User:
@@ -929,9 +929,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. ID can't be null"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1048,12 +1048,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Unique ID
 Commit used:
 User:
@@ -1068,9 +1068,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Unique ID"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1157,12 +1157,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. States table
 Commit used:
 User:
@@ -1177,9 +1177,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. States table"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1316,12 +1316,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Cities table
 Commit used:
 User:
@@ -1336,9 +1336,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Cities table"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1451,12 +1451,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Cities of California
 Commit used:
 User:
@@ -1471,9 +1471,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Cities of California"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1587,12 +1587,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Cities by States
 Commit used:
 User:
@@ -1607,9 +1607,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Cities by States"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1749,12 +1749,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Genre ID by show
 Commit used:
 User:
@@ -1769,9 +1769,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Genre ID by show"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1922,12 +1922,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Genre ID for all shows
 Commit used:
 User:
@@ -1942,9 +1942,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Genre ID for all shows"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2040,12 +2040,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. No genre
 Commit used:
 User:
@@ -2060,9 +2060,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. No genre"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2148,12 +2148,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. Number of shows by genre
 Commit used:
 User:
@@ -2168,9 +2168,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. Number of shows by genre"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2257,12 +2257,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 14. My genres
 Commit used:
 User:
@@ -2277,9 +2277,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "14. My genres"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2363,12 +2363,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 15. Only Comedy
 Commit used:
 User:
@@ -2383,9 +2383,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "15. Only Comedy"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2515,12 +2515,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 16. List shows and genres
 Commit used:
 User:
@@ -2535,9 +2535,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "16. List shows and genres"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2547,13 +2547,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

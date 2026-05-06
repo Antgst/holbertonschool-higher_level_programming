@@ -1,12 +1,12 @@
-# ðŸ“˜ Python - Hello, World
+# 📘 Python - Hello, World
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -32,7 +32,7 @@ Use this playlist as long as you are learning Python:
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -54,7 +54,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### Python Scripts
 
@@ -80,13 +80,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -272,7 +272,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Hello, print</summary>
@@ -322,12 +322,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Hello, print
 Commit used:
 User:
@@ -342,9 +342,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Hello, print"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -421,12 +421,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Print integer
 Commit used:
 User:
@@ -441,9 +441,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Print integer"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -513,12 +513,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Print float
 Commit used:
 User:
@@ -533,9 +533,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Print float"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -608,12 +608,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Print string
 Commit used:
 User:
@@ -628,9 +628,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Print string"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -710,12 +710,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Play with strings
 Commit used:
 User:
@@ -730,9 +730,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Play with strings"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -821,12 +821,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Copy - Cut - Paste
 Commit used:
 User:
@@ -841,9 +841,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Copy - Cut - Paste"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -918,12 +918,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Create a new sentence
 Commit used:
 User:
@@ -938,9 +938,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Create a new sentence"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1057,12 +1057,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Easter Egg
 Commit used:
 User:
@@ -1077,9 +1077,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Easter Egg"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1089,13 +1089,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 
