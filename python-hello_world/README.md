@@ -11,13 +11,10 @@ _No description detected._
 **Read or watch**:
 
 
-
 Use this playlist as long as you are learning Python:
 
 
-
 - [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
-
 
 
 - [Whetting Your Appetite](https://docs.python.org/3/tutorial/appetite.html)
@@ -37,9 +34,7 @@ Use this playlist as long as you are learning Python:
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - How to use the Python interpreter
@@ -57,7 +52,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### Python Scripts
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -310,43 +304,12 @@ Directory:
 python-hello_world
 File:
 2-print.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Hello, print
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Hello, print"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -409,43 +372,12 @@ Directory:
 python-hello_world
 File:
 3-print_number.py
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Print integer
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Print integer"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -501,43 +433,12 @@ Directory:
 python-hello_world
 File:
 4-print_float.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Print float
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Print float"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -596,43 +497,12 @@ Directory:
 python-hello_world
 File:
 5-print_string.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Print string
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Print string"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -698,43 +568,12 @@ Directory:
 python-hello_world
 File:
 6-concat.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Play with strings
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Play with strings"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -809,43 +648,12 @@ Directory:
 python-hello_world
 File:
 7-edges.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Copy - Cut - Paste
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Copy - Cut - Paste"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -906,43 +714,12 @@ Directory:
 python-hello_world
 File:
 8-concat_edges.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Create a new sentence
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Create a new sentence"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1045,43 +822,12 @@ Directory:
 python-hello_world
 File:
 9-easter_egg.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Easter Egg
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Easter Egg"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

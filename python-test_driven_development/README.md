@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [doctest — Test interactive Python examples](https://docs.python.org/3.4/library/doctest.html) (*until "26.2.3.7. Warnings" included*)
 
 - [doctest – Testing through documentation](https://pymotw.com/3/doctest/)
@@ -25,9 +24,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why Python programming is awesome
@@ -51,7 +48,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### Python Scripts
 
 
-
 - Allowed editors: `vi`, `vim`, `emacs`
 
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -69,9 +65,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The length of your files will be tested using `wc`
 
 
-
 ### Python Test Cases
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -429,43 +423,12 @@ Directory:
 python-test_driven_development
 File:
 0-add_integer.py, tests/0-add_integer.txt
-Score of the task
-30
-/30
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Integers addition
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Integers addition"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -604,43 +567,12 @@ Directory:
 python-test_driven_development
 File:
 2-matrix_divided.py, tests/2-matrix_divided.txt
-Score of the task
-39
-/39
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Divide a matrix
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Divide a matrix"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -746,43 +678,12 @@ Directory:
 python-test_driven_development
 File:
 3-say_my_name.py, tests/3-say_my_name.txt
-Score of the task
-24
-/24
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Say my name
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Say my name"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -921,43 +822,12 @@ Directory:
 python-test_driven_development
 File:
 4-print_square.py, tests/4-print_square.txt
-Score of the task
-25
-/25
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Print square
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Print square"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1049,43 +919,12 @@ Directory:
 python-test_driven_development
 File:
 5-text_indentation.py, tests/5-text_indentation.txt
-Score of the task
-24
-/24
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Text indentation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Text indentation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1241,43 +1080,12 @@ Directory:
 python-test_driven_development
 File:
 tests/6-max_integer_test.py
-Score of the task
-25
-/25
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Max integer - Unittest
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Max integer - Unittest"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [7.2. Reading and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 
 - [8.7. Predefined Clean-up Actions](https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions)
@@ -33,9 +32,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why Python programming is awesome
@@ -73,7 +70,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### Python Scripts
 
 
-
 - Allowed editors: `vi`, `vim`, `emacs`
 
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -91,9 +87,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The length of your files will be tested using `wc`
 
 
-
 ### Python Test Cases
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -218,43 +212,12 @@ Directory:
 python-input_output
 File:
 0-read_file.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Read file
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Read file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -333,43 +296,12 @@ Directory:
 python-input_output
 File:
 1-write_file.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Write to a file
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Write to a file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -482,43 +414,12 @@ Directory:
 python-input_output
 File:
 2-append_write.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Append to a file
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Append to a file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -689,43 +590,12 @@ Directory:
 python-input_output
 File:
 3-to_json_string.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. To JSON string
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. To JSON string"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -872,43 +742,12 @@ Directory:
 python-input_output
 File:
 4-from_json_string.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. From JSON string to Object
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. From JSON string to Object"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1090,43 +929,12 @@ Directory:
 python-input_output
 File:
 5-save_to_json_file.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Save Object to a file
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Save Object to a file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1366,43 +1174,12 @@ Directory:
 python-input_output
 File:
 6-load_from_json_file.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Create object from a JSON file
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Create object from a JSON file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1520,43 +1297,12 @@ Directory:
 python-input_output
 File:
 7-add_item.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Load, add, save
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Load, add, save"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1845,43 +1591,12 @@ Directory:
 python-input_output
 File:
 8-class_to_json.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Class to JSON
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Class to JSON"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2020,43 +1735,12 @@ Directory:
 python-input_output
 File:
 9-student.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Student to JSON
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Student to JSON"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2199,43 +1883,12 @@ Directory:
 python-input_output
 File:
 10-student.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Student to JSON with filter
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Student to JSON with filter"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2500,43 +2153,12 @@ Directory:
 python-input_output
 File:
 11-student.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Student to disk and reload
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Student to disk and reload"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2664,43 +2286,12 @@ Directory:
 python-input_output
 File:
 12-pascal_triangle.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Pascal's Triangle
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Pascal's Triangle"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

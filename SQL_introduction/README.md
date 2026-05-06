@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 
 - [Install MySQL (MySQL Server)](https://www.youtube.com/watch?v=9h3ctGFTz9w)
@@ -41,9 +40,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What's a database
@@ -73,7 +70,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -326,43 +322,12 @@ Directory:
 SQL_introduction
 File:
 0-list_databases.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. List databases
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. List databases"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -428,43 +393,12 @@ Directory:
 SQL_introduction
 File:
 1-create_database_if_missing.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Create a database
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Create a database"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -536,43 +470,12 @@ Directory:
 SQL_introduction
 File:
 2-remove_database.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Delete a database
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Delete a database"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -651,43 +554,12 @@ Directory:
 SQL_introduction
 File:
 3-list_tables.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. List tables
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. List tables"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -754,43 +626,12 @@ Directory:
 SQL_introduction
 File:
 4-first_table.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. First table
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. First table"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -881,43 +722,12 @@ Directory:
 SQL_introduction
 File:
 5-full_table.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Full description
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Full description"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -963,43 +773,12 @@ Directory:
 SQL_introduction
 File:
 6-list_values.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. List all in table
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. List all in table"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1085,43 +864,12 @@ Directory:
 SQL_introduction
 File:
 7-insert_value.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. First add
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. First add"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1175,43 +923,12 @@ Directory:
 SQL_introduction
 File:
 8-count_89.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Count 89
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Count 89"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1297,43 +1014,12 @@ Directory:
 SQL_introduction
 File:
 9-full_creation.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Full creation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Full creation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1385,43 +1071,12 @@ Directory:
 SQL_introduction
 File:
 10-top_score.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. List by best
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. List by best"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1473,43 +1128,12 @@ Directory:
 SQL_introduction
 File:
 11-best_score.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Select the best
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Select the best"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1573,43 +1197,12 @@ Directory:
 SQL_introduction
 File:
 12-no_cheating.sql
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Cheating is bad
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Cheating is bad"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1670,43 +1263,12 @@ Directory:
 SQL_introduction
 File:
 13-change_class.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. Score too low
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. Score too low"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1755,43 +1317,12 @@ Directory:
 SQL_introduction
 File:
 14-average.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. Average
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. Average"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1847,43 +1378,12 @@ Directory:
 SQL_introduction
 File:
 15-groups.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 15. Number by score
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "15. Number by score"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1941,43 +1441,12 @@ Directory:
 SQL_introduction
 File:
 16-no_link.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 16. Say my name
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "16. Say my name"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

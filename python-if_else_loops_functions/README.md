@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [More Control Flow Tools](https://docs.python.org/3/tutorial/controlflow.html) (*Read until "4.6. Defining Functions" included*)
 
 - [IndentationError](https://www.youtube.com/watch?v=1QXOd2ZQs-Q)
@@ -23,9 +22,7 @@ _No description detected._
 - [Pycodestyle -- Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
 
 
-
 **man or help**:
-
 
 
 - `python3`
@@ -37,9 +34,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why indentation is so important in Python
@@ -75,7 +70,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### Python Scripts
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -414,43 +408,12 @@ Directory:
 python-if_else_loops_functions
 File:
 0-positive_or_negative.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Positive anything is better than negative nothing
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Positive anything is better than negative nothing"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -699,43 +662,12 @@ Directory:
 python-if_else_loops_functions
 File:
 1-last_digit.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. The last digit
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. The last digit"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -780,43 +712,12 @@ Directory:
 python-if_else_loops_functions
 File:
 2-print_alphabet.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -865,43 +766,12 @@ Directory:
 python-if_else_loops_functions
 File:
 3-print_alphabt.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. When I was having that alphabet soup, I never thought that it would pay off
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. When I was having that alphabet soup, I never thought that it would pay off"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1017,43 +887,12 @@ Directory:
 python-if_else_loops_functions
 File:
 4-print_hexa.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Hexadecimal printing
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Hexadecimal printing"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1302,43 +1141,12 @@ Directory:
 python-if_else_loops_functions
 File:
 5-print_comb2.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. 00...99
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. 00...99"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1482,43 +1290,12 @@ Directory:
 python-if_else_loops_functions
 File:
 6-print_comb3.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Inventing is a combination of brains and materials. The more brains you use, the less material you need"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1663,43 +1440,12 @@ Directory:
 python-if_else_loops_functions
 File:
 7-islower.py
-Score of the task
-17
-/17
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. islower
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. islower"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1777,43 +1523,12 @@ Directory:
 python-if_else_loops_functions
 File:
 8-uppercase.py
-Score of the task
-17
-/17
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. To uppercase
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. To uppercase"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1882,43 +1597,12 @@ Directory:
 python-if_else_loops_functions
 File:
 9-print_last_digit.py
-Score of the task
-16
-/16
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1995,43 +1679,12 @@ Directory:
 python-if_else_loops_functions
 File:
 10-add.py
-Score of the task
-16
-/16
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. a + b
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. a + b"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2132,43 +1785,12 @@ Directory:
 python-if_else_loops_functions
 File:
 11-pow.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. a ^ b
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. a ^ b"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2237,43 +1859,12 @@ Directory:
 python-if_else_loops_functions
 File:
 12-fizzbuzz.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Fizz Buzz
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Fizz Buzz"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

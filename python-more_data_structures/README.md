@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Data structures](https://docs.python.org/3/tutorial/datastructures.html)
 
 - [Lambda, filter, reduce and map](https://python-course.eu/advanced-python/lambda-filter-reduce-map.php)
@@ -19,9 +18,7 @@ _No description detected._
 - [Learn to Program 12 Lambda Map Filter Reduce](https://www.youtube.com/watch?v=1GAC6KQUPeg)
 
 
-
 **man or help**:
-
 
 
 - `python3`
@@ -33,9 +30,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why Python programming is awesome
@@ -65,7 +60,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -467,43 +461,12 @@ Directory:
 python-more_data_structures
 File:
 0-square_matrix_simple.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Squared simple
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Squared simple"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -641,43 +604,12 @@ Directory:
 python-more_data_structures
 File:
 1-search_replace.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Search and replace
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Search and replace"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -754,43 +686,12 @@ Directory:
 python-more_data_structures
 File:
 2-uniq_add.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Unique addition
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Unique addition"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -866,43 +767,12 @@ Directory:
 python-more_data_structures
 File:
 3-common_elements.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Present in both
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Present in both"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -986,43 +856,12 @@ Directory:
 python-more_data_structures
 File:
 4-only_diff_elements.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Only differents
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Only differents"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1098,43 +937,12 @@ Directory:
 python-more_data_structures
 File:
 5-number_keys.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Number of keys
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Number of keys"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1231,43 +1039,12 @@ Directory:
 python-more_data_structures
 File:
 6-print_sorted_dictionary.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Print sorted dictionary
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Print sorted dictionary"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1358,43 +1135,12 @@ Directory:
 python-more_data_structures
 File:
 7-update_dictionary.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Update dictionary
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Update dictionary"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1476,43 +1222,12 @@ Directory:
 python-more_data_structures
 File:
 8-simple_delete.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Simple delete by key
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Simple delete by key"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1631,43 +1346,12 @@ Directory:
 python-more_data_structures
 File:
 9-multiply_by_2.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Multiply by 2
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Multiply by 2"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1764,43 +1448,12 @@ Directory:
 python-more_data_structures
 File:
 10-best_score.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Best score
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Best score"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1902,43 +1555,12 @@ Directory:
 python-more_data_structures
 File:
 11-multiply_list_map.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Multiply by using map
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Multiply by using map"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2053,43 +1675,12 @@ Directory:
 python-more_data_structures
 File:
 12-roman_to_int.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Roman to Integer
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Roman to Integer"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Modules](https://docs.python.org/3/tutorial/modules.html)
 
 - [Command line arguments](https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments)
@@ -19,11 +18,7 @@ _No description detected._
 - [Pycodestyle -- Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
 
 
-
-
-
 **man or help**:
-
 
 
 - `python3`
@@ -35,9 +30,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why Python programming is awesome
@@ -59,7 +52,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -332,43 +324,12 @@ Directory:
 python-import_modules
 File:
 0-add.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Import a simple function from a simple file
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Import a simple function from a simple file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -521,43 +482,12 @@ Directory:
 python-import_modules
 File:
 1-calculation.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. My first toolbox!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. My first toolbox!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -669,43 +599,12 @@ Directory:
 python-import_modules
 File:
 2-args.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. How to make a script dynamic!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. How to make a script dynamic!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -791,43 +690,12 @@ Directory:
 python-import_modules
 File:
 3-infinite_add.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Infinite addition
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Infinite addition"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -888,43 +756,12 @@ Directory:
 python-import_modules
 File:
 5-variable_load.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Everything can be imported
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Everything can be imported"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

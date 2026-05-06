@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Object Oriented Programming](https://python.swaroopch.com/oop.html) (*Read everything until the paragraph "Inheritance" (excluded)*)
 
 - [Object-Oriented Programming](https://python-course.eu/oop/object-oriented-programming.php) (*Please be careful: in most of the following paragraphs, the author shows the way you should not use or write a class, in order to help you better understand some concepts and how everything works in Python 3. Make sure you read only the following paragraphs: "General Introduction," "First-class Everything," "A Minimal Class in Python," "Attributes," "Methods," "The `__init__` Method,"  "Data Abstraction, Data Encapsulation, and Information Hiding," "`__str__`- and `__repr__`-Methods," "Public- Protected- and Private Attributes," & "Destructor"*)
@@ -31,9 +30,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why Python programming is awesome
@@ -93,7 +90,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -465,43 +461,12 @@ Directory:
 python-more_classes
 File:
 0-rectangle.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Simple rectangle
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Simple rectangle"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -642,43 +607,12 @@ Directory:
 python-more_classes
 File:
 1-rectangle.py
-Score of the task
-16
-/16
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Real definition of a rectangle
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Real definition of a rectangle"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -838,43 +772,12 @@ Directory:
 python-more_classes
 File:
 2-rectangle.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Area and Perimeter
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Area and Perimeter"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1059,43 +962,12 @@ Directory:
 python-more_classes
 File:
 3-rectangle.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. String representation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. String representation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1347,43 +1219,12 @@ Directory:
 python-more_classes
 File:
 4-rectangle.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Eval is magic
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Eval is magic"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1564,43 +1405,12 @@ Directory:
 python-more_classes
 File:
 5-rectangle.py
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Detect instance deletion
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Detect instance deletion"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1795,43 +1605,12 @@ Directory:
 python-more_classes
 File:
 6-rectangle.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. How many instances
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. How many instances"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2197,43 +1976,12 @@ Directory:
 python-more_classes
 File:
 7-rectangle.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Change representation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Change representation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2461,43 +2209,12 @@ Directory:
 python-more_classes
 File:
 8-rectangle.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Compare rectangles
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Compare rectangles"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2702,43 +2419,12 @@ Directory:
 python-more_classes
 File:
 9-rectangle.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. A square is a rectangle
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. A square is a rectangle"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

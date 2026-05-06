@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Object-relational mappers](https://www.fullstackpython.com/object-relational-mappers-orms.html)
 
 - [mysqlclient/MySQLdb documentation](https://mysqlclient.readthedocs.io/) (*please don't pay attention to `_mysql`*)
@@ -43,9 +42,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - How to connect to a MySQL database from a Python script
@@ -63,7 +60,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -262,43 +258,12 @@ Directory:
 python-object_relational_mapping
 File:
 0-select_states.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Get all states
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Get all states"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -441,43 +406,12 @@ Directory:
 python-object_relational_mapping
 File:
 1-filter_states.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Filter states
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Filter states"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -619,43 +553,12 @@ Directory:
 python-object_relational_mapping
 File:
 2-my_filter_states.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Filter states by user input
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Filter states by user input"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -825,43 +728,12 @@ Directory:
 python-object_relational_mapping
 File:
 3-my_safe_filter_states.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. SQL Injection...
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. SQL Injection..."
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1182,43 +1054,12 @@ Directory:
 python-object_relational_mapping
 File:
 4-cities_by_state.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Cities by states
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Cities by states"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1460,43 +1301,12 @@ Directory:
 python-object_relational_mapping
 File:
 5-filter_cities.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. All cities by state
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. All cities by state"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1648,43 +1458,12 @@ Directory:
 python-object_relational_mapping
 File:
 model_state.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. First state model
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. First state model"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1762,43 +1541,12 @@ Directory:
 python-object_relational_mapping
 File:
 7-model_state_fetch_all.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. All states via SQLAlchemy
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. All states via SQLAlchemy"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1874,43 +1622,12 @@ Directory:
 python-object_relational_mapping
 File:
 8-model_state_fetch_first.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. First state
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. First state"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1991,43 +1708,12 @@ Directory:
 python-object_relational_mapping
 File:
 9-model_state_filter_a.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Contains `a`
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Contains `a`"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2113,43 +1799,12 @@ Directory:
 python-object_relational_mapping
 File:
 10-model_state_my_get.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Get a state
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Get a state"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2243,43 +1898,12 @@ Directory:
 python-object_relational_mapping
 File:
 11-model_state_insert.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Add a new state
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Add a new state"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2376,43 +2000,12 @@ Directory:
 python-object_relational_mapping
 File:
 12-model_state_update_id_2.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Update a state
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Update a state"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2493,43 +2086,12 @@ Directory:
 python-object_relational_mapping
 File:
 13-model_state_delete_a.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. Delete states
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. Delete states"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2829,43 +2391,12 @@ Directory:
 python-object_relational_mapping
 File:
 model_city.py, 14-model_city_fetch_by_state.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. Cities in state
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. Cities in state"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

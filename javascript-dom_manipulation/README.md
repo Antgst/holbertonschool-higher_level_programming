@@ -11,7 +11,6 @@
 ### Read or watch:
 
 
-
 - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
 
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -37,7 +36,6 @@
 ## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
-
 
 
 ### General
@@ -187,31 +185,12 @@ Directory:
 javascript-dom_manipulation
 File:
 0-script.js
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-QA Review
-×
 0. Color Me
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Color Me"
 ```
 
 </details>
@@ -315,31 +294,12 @@ Directory:
 javascript-dom_manipulation
 File:
 1-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 1. Click and turn red
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Click and turn red"
 ```
 
 </details>
@@ -455,31 +415,12 @@ Directory:
 javascript-dom_manipulation
 File:
 2-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 2. Add `.red` class
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Add `.red` class"
 ```
 
 </details>
@@ -618,31 +559,12 @@ Directory:
 javascript-dom_manipulation
 File:
 3-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 3. Toggle classes
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Toggle classes"
 ```
 
 </details>
@@ -772,31 +694,12 @@ Directory:
 javascript-dom_manipulation
 File:
 4-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 4. List of elements
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. List of elements"
 ```
 
 </details>
@@ -905,31 +808,12 @@ Directory:
 javascript-dom_manipulation
 File:
 5-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 5. Change the text
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Change the text"
 ```
 
 </details>
@@ -1044,31 +928,12 @@ Directory:
 javascript-dom_manipulation
 File:
 6-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 6. Star wars character
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Star wars character"
 ```
 
 </details>
@@ -1179,31 +1044,12 @@ Directory:
 javascript-dom_manipulation
 File:
 7-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 7. Star Wars movies
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Star Wars movies"
 ```
 
 </details>
@@ -1317,31 +1163,12 @@ Directory:
 javascript-dom_manipulation
 File:
 8-script.js
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-QA Review
-×
 8. Say Hello!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Say Hello!"
 ```
 
 </details>

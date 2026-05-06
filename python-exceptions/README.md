@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 
 - [Learn to Program 11 Static & Exception Handling](https://www.youtube.com/watch?v=7vbgD-3s-w4) (*starting at minute 7*)
@@ -23,9 +22,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why Python programming is awesome
@@ -49,7 +46,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -187,43 +183,12 @@ Directory:
 python-exceptions
 File:
 0-safe_print_list.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Safe list printing
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Safe list printing"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -335,43 +300,12 @@ Directory:
 python-exceptions
 File:
 1-safe_print_integer.py
-Score of the task
-14
-/14
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Safe printing of an integers list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Safe printing of an integers list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -531,43 +465,12 @@ Directory:
 python-exceptions
 File:
 2-safe_print_list_integers.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Print and count integers
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Print and count integers"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -671,43 +574,12 @@ Directory:
 python-exceptions
 File:
 3-safe_print_division.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Integers division with debug
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Integers division with debug"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -863,43 +735,12 @@ Directory:
 python-exceptions
 File:
 4-list_division.py
-Score of the task
-16
-/16
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Divide a list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Divide a list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -964,43 +805,12 @@ Directory:
 python-exceptions
 File:
 5-raise_exception.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Raise exception
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Raise exception"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1064,43 +874,12 @@ Directory:
 python-exceptions
 File:
 6-raise_exception_msg.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Raise a message
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Raise a message"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

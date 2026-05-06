@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Inheritance](https://docs.python.org/3/tutorial/classes.html#inheritance)
 
 - [Multiple inheritance](https://docs.python.org/3/tutorial/classes.html#multiple-inheritance)
@@ -27,9 +26,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What is a superclass, baseclass or parentclass
@@ -61,7 +58,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### Python Scripts
 
 
-
 - Allowed editors: `vi`, `vim`, `emacs`
 
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -79,11 +75,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The length of your files will be tested using `wc`
 
 
-
-
-
 ### Python Test Cases
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -107,9 +99,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - We strongly encourage you to work together on test cases, so that you don't miss any edge case
 
 
-
 ### Documentation
-
 
 
 - Do not use the words `import` or `from` inside your comments, the checker will think you are trying to import some modules
@@ -645,43 +635,12 @@ Directory:
 python-inheritance
 File:
 0-lookup.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Lookup
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Lookup"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -799,43 +758,12 @@ Directory:
 python-inheritance
 File:
 1-my_list.py, tests/1-my_list.txt
-Score of the task
-23
-/23
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. My list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. My list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -931,43 +859,12 @@ Directory:
 python-inheritance
 File:
 2-is_same_class.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Exact same object
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Exact same object"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1064,43 +961,12 @@ Directory:
 python-inheritance
 File:
 3-is_kind_of_class.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Same class or inherit from
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Same class or inherit from"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1199,43 +1065,12 @@ Directory:
 python-inheritance
 File:
 4-inherits_from.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Only sub class of
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Only sub class of"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1410,43 +1245,12 @@ Directory:
 python-inheritance
 File:
 5-base_geometry.py
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Geometry module
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Geometry module"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1528,43 +1332,12 @@ Directory:
 python-inheritance
 File:
 6-base_geometry.py
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Improve Geometry
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Improve Geometry"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1707,43 +1480,12 @@ Directory:
 python-inheritance
 File:
 7-base_geometry.py, tests/7-base_geometry.txt
-Score of the task
-29
-/29
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Integer validator
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Integer validator"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1926,43 +1668,12 @@ Directory:
 python-inheritance
 File:
 8-rectangle.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Rectangle
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Rectangle"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2066,43 +1777,12 @@ Directory:
 python-inheritance
 File:
 9-rectangle.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Full rectangle
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Full rectangle"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2190,43 +1870,12 @@ Directory:
 python-inheritance
 File:
 10-square.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Square #1
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Square #1"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2322,43 +1971,12 @@ Directory:
 python-inheritance
 File:
 11-square.py
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Square #2
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Square #2"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

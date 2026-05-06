@@ -151,39 +151,12 @@ Directory:
 python-serialization
 File:
 task_00_basic_serialization.py
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 0. Basic Serialization
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Basic Serialization"
 ```
 
 </details>
@@ -303,39 +276,12 @@ Directory:
 python-serialization
 File:
 task_01_pickle.py
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 1. Pickling Custom Classes
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Pickling Custom Classes"
 ```
 
 </details>
@@ -493,39 +439,12 @@ Directory:
 python-serialization
 File:
 task_02_csv.py
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 2. Converting CSV Data to JSON Format
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Converting CSV Data to JSON Format"
 ```
 
 </details>
@@ -680,39 +599,12 @@ Directory:
 python-serialization
 File:
 task_03_xml.py
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 3. Serializing and Deserializing with XML
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Serializing and Deserializing with XML"
 ```
 
 </details>

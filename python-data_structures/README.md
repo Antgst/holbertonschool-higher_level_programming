@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
 
 - [Data structures](https://docs.python.org/3/tutorial/datastructures.html) (*until `5.3. Tuples and Sequences` included*)
@@ -25,9 +24,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are lists and how to use them
@@ -57,7 +54,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### Python Scripts
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -362,43 +358,12 @@ Directory:
 python-data_structures
 File:
 0-print_list_integer.py
-Score of the task
-21
-/21
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Print a list of integers
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Print a list of integers"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -486,43 +451,12 @@ Directory:
 python-data_structures
 File:
 1-element_at.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Secure access to an element in a list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Secure access to an element in a list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -628,43 +562,12 @@ Directory:
 python-data_structures
 File:
 2-replace_in_list.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Replace element
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Replace element"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -740,43 +643,12 @@ Directory:
 python-data_structures
 File:
 3-print_reversed_list_integer.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Print a list of integers... in reverse!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Print a list of integers... in reverse!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -884,43 +756,12 @@ Directory:
 python-data_structures
 File:
 4-new_in_list.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Replace in a copy
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Replace in a copy"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -995,43 +836,12 @@ Directory:
 python-data_structures
 File:
 5-no_c.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Can you C me now?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Can you C me now?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1124,43 +934,12 @@ Directory:
 python-data_structures
 File:
 6-print_matrix_integer.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Lists of lists = Matrix
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Lists of lists = Matrix"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1255,43 +1034,12 @@ Directory:
 python-data_structures
 File:
 7-add_tuple.py
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Tuples addition
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Tuples addition"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1361,43 +1109,12 @@ Directory:
 python-data_structures
 File:
 8-multiple_returns.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. More returns!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. More returns!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1481,43 +1198,12 @@ Directory:
 python-data_structures
 File:
 9-max_integer.py
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Find the max
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Find the max"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1636,43 +1322,12 @@ Directory:
 python-data_structures
 File:
 10-divisible_by_2.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Only by 2
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Only by 2"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1766,43 +1421,12 @@ Directory:
 python-data_structures
 File:
 11-delete_at.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Delete at
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Delete at"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1862,43 +1486,12 @@ Directory:
 python-data_structures
 File:
 12-switch.py
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Switch
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Switch"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

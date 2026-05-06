@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
 
 - [How To Use MySQL GRANT Statement To Grant Privileges To a User](https://www.mysqltutorial.org/mysql-administration/mysql-grant/)
@@ -39,11 +38,7 @@ _No description detected._
 - [MySQL 8.0 SQL Statement Syntax](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
 
 
-
-
-
 Extra resources around relational database model design:
-
 
 
 - [Design](https://www.guru99.com/database-design.html)
@@ -59,9 +54,7 @@ Extra resources around relational database model design:
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - How to create a new MySQL user
@@ -85,7 +78,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -362,43 +354,12 @@ Directory:
 SQL_more_queries
 File:
 0-privileges.sql
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. My privileges!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. My privileges!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -496,43 +457,12 @@ Directory:
 SQL_more_queries
 File:
 1-create_user.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Root user
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Root user"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -640,43 +570,12 @@ Directory:
 SQL_more_queries
 File:
 2-create_read_user.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Read user
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Read user"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -767,43 +666,12 @@ Directory:
 SQL_more_queries
 File:
 3-force_name.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Always a name
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Always a name"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -897,43 +765,12 @@ Directory:
 SQL_more_queries
 File:
 4-never_empty.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. ID can't be null
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. ID can't be null"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1036,43 +873,12 @@ Directory:
 SQL_more_queries
 File:
 5-unique_id.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Unique ID
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Unique ID"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1145,43 +951,12 @@ Directory:
 SQL_more_queries
 File:
 6-states.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. States table
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. States table"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1304,43 +1079,12 @@ Directory:
 SQL_more_queries
 File:
 7-cities.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Cities table
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Cities table"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1439,43 +1183,12 @@ Directory:
 SQL_more_queries
 File:
 8-cities_of_california_subquery.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Cities of California
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Cities of California"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1575,43 +1288,12 @@ Directory:
 SQL_more_queries
 File:
 9-cities_by_state_join.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Cities by States
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Cities by States"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1737,43 +1419,12 @@ Directory:
 SQL_more_queries
 File:
 10-genre_id_by_show.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Genre ID by show
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Genre ID by show"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1910,43 +1561,12 @@ Directory:
 SQL_more_queries
 File:
 11-genre_id_all_shows.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Genre ID for all shows
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Genre ID for all shows"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2028,43 +1648,12 @@ Directory:
 SQL_more_queries
 File:
 12-no_genre.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. No genre
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. No genre"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2136,43 +1725,12 @@ Directory:
 SQL_more_queries
 File:
 13-count_shows_by_genre.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. Number of shows by genre
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. Number of shows by genre"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2245,43 +1803,12 @@ Directory:
 SQL_more_queries
 File:
 14-my_genres.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. My genres
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. My genres"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2351,43 +1878,12 @@ Directory:
 SQL_more_queries
 File:
 15-comedy_only.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 15. Only Comedy
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "15. Only Comedy"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2503,43 +1999,12 @@ Directory:
 SQL_more_queries
 File:
 16-shows_by_genre.sql
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 16. List shows and genres
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "16. List shows and genres"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

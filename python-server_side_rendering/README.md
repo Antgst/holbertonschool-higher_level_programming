@@ -5,7 +5,6 @@
 Server-side rendering is a powerful technique where web pages are generated on the server and sent to the client as fully formed HTML. This contrasts with client-side rendering, where the browser builds the web page using JavaScript and dynamic data. Through this project, you will learn how to implement SSR using Python and Flask, leveraging the Jinja templating engine to create dynamic, efficient, and SEO-friendly web applications.
 
 
-
 ### Learning Objectives
 
 - Understand the concepts of server-side rendering and how it differs from client-side rendering.
@@ -21,11 +20,9 @@ Server-side rendering is a powerful technique where web pages are generated on t
 - Handle dynamic content and user inputs in web applications.
 
 
-
 ### What to Expect
 
 In this project, you will build a Flask application that serves web pages using server-side rendering techniques. You will start by creating basic templates and gradually move towards integrating dynamic content from multiple data sources. By the end of the project, you will have a comprehensive understanding of SSR, templating, and how to build efficient, scalable web applications.
-
 
 
 ### Resources
@@ -43,7 +40,6 @@ In this project, you will build a Flask application that serves web pages using 
 - **Python SQLite Documentation:** [Python SQLite Documentation](https://docs.python.org/3/library/sqlite3.html)
 
 - **Jinja2 Documentation:** [Jinja2 Documentation](https://jinja.palletsprojects.com/en/latest/)
-
 
 
 This project will equip you with the skills needed to implement server-side rendering in your web applications, making them more efficient, SEO-friendly, and easy to maintain.
@@ -321,39 +317,12 @@ Directory:
 python-server_side_rendering
 File:
 task_00_intro.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 0. Creating a Simple Templating Program
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Creating a Simple Templating Program"
 ```
 
 </details>
@@ -624,39 +593,12 @@ Directory:
 python-server_side_rendering
 File:
 task_01_jinja.py
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 1. Creating a Basic HTML Template in Flask
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Creating a Basic HTML Template in Flask"
 ```
 
 </details>
@@ -772,39 +714,12 @@ Directory:
 python-server_side_rendering
 File:
 task_02_logic.py
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 2. Creating a Dynamic Template with Loops and Conditions in Flask
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Creating a Dynamic Template with Loops and Conditions in Flask"
 ```
 
 </details>
@@ -1001,39 +916,12 @@ Directory:
 python-server_side_rendering
 File:
 task_03_files.py
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 3. Displaying Data from JSON or CSV Files in Flask
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Displaying Data from JSON or CSV Files in Flask"
 ```
 
 </details>
@@ -1178,39 +1066,12 @@ Directory:
 python-server_side_rendering
 File:
 task_04_db.py
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-QA Review
-×
 4. Extending Dynamic Data Display to Include SQLite in Flask
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Extending Dynamic Data Display to Include SQLite in Flask"
 ```
 
 </details>

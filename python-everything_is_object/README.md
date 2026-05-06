@@ -11,7 +11,6 @@
 **Read or watch**:
 
 
-
 - [9.10. Objects and values](http://www.openbookproject.net/thinkcs/python/english2e/ch09.html#objects-and-values)
 
 - [9.11. Aliasing](http://www.openbookproject.net/thinkcs/python/english2e/ch09.html#aliasing)
@@ -31,9 +30,7 @@
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What is an object
@@ -69,7 +66,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### Python Scripts
 
 
-
 - Allowed editors: `vi`, `vim`, `emacs`
 
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -87,11 +83,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The length of your files will be tested using `wc`
 
 
-
-
-
 ### `.txt` Answer Files
-
 
 
 - Only one line
@@ -143,43 +135,12 @@ Directory:
 python-everything_is_object
 File:
 0-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Who am I?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Who am I?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -210,43 +171,12 @@ Directory:
 python-everything_is_object
 File:
 1-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Where are you?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Where are you?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -289,43 +219,12 @@ Directory:
 python-everything_is_object
 File:
 2-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Right count
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Right count"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -368,43 +267,12 @@ Directory:
 python-everything_is_object
 File:
 3-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Right count =
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Right count ="
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -446,43 +314,12 @@ Directory:
 python-everything_is_object
 File:
 4-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Right count =
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Right count ="
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -525,43 +362,12 @@ Directory:
 python-everything_is_object
 File:
 5-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Right count =+
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Right count =+"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -597,43 +403,12 @@ Directory:
 python-everything_is_object
 File:
 6-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Is equal
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Is equal"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -671,43 +446,12 @@ Directory:
 python-everything_is_object
 File:
 7-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Is the same
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Is the same"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -744,43 +488,12 @@ Directory:
 python-everything_is_object
 File:
 8-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Is really equal
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Is really equal"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -819,43 +532,12 @@ Directory:
 python-everything_is_object
 File:
 9-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Is really the same
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Is really the same"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -902,43 +584,12 @@ Directory:
 python-everything_is_object
 File:
 10-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. And with a list, is it equal
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. And with a list, is it equal"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -987,43 +638,12 @@ Directory:
 python-everything_is_object
 File:
 11-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. And with a list, is it the same
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. And with a list, is it the same"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1064,43 +684,12 @@ Directory:
 python-everything_is_object
 File:
 12-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. And with a list, is it really equal
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. And with a list, is it really equal"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1143,43 +732,12 @@ Directory:
 python-everything_is_object
 File:
 13-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. And with a list, is it really the same
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. And with a list, is it really the same"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1222,43 +780,12 @@ Directory:
 python-everything_is_object
 File:
 14-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. List append
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. List append"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1290,43 +817,12 @@ Directory:
 python-everything_is_object
 File:
 15-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 15. List add
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "15. List add"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1365,43 +861,12 @@ Directory:
 python-everything_is_object
 File:
 16-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 16. Integer incrementation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "16. Integer incrementation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1449,43 +914,12 @@ Directory:
 python-everything_is_object
 File:
 17-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 17. List incrementation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "17. List incrementation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1536,43 +970,12 @@ Directory:
 python-everything_is_object
 File:
 18-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 18. List assignation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "18. List assignation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1681,43 +1084,12 @@ Directory:
 python-everything_is_object
 File:
 19-copy_list.py
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 19. Copy a list object
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "19. Copy a list object"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1753,43 +1125,12 @@ Directory:
 python-everything_is_object
 File:
 20-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 20. Tuple or not?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "20. Tuple or not?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1829,43 +1170,12 @@ Directory:
 python-everything_is_object
 File:
 21-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 21. Tuple or not?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "21. Tuple or not?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1903,43 +1213,12 @@ Directory:
 python-everything_is_object
 File:
 22-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 22. Tuple or not?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "22. Tuple or not?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1977,43 +1256,12 @@ Directory:
 python-everything_is_object
 File:
 23-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 23. Tuple or not?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "23. Tuple or not?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2044,43 +1292,12 @@ Directory:
 python-everything_is_object
 File:
 24-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 24. Who I am?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "24. Who I am?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2111,43 +1328,12 @@ Directory:
 python-everything_is_object
 File:
 25-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 25. Tuple or not
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "25. Tuple or not"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2178,43 +1364,12 @@ Directory:
 python-everything_is_object
 File:
 26-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 26. Empty is not empty
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "26. Empty is not empty"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2262,43 +1417,12 @@ Directory:
 python-everything_is_object
 File:
 27-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 27. Still the same?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "27. Still the same?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2346,43 +1470,12 @@ Directory:
 python-everything_is_object
 File:
 28-answer.txt
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 28. Same or not?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "28. Same or not?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
